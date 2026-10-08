@@ -1,16 +1,29 @@
-## Hi there 👋
+# Owen | George Living
 
-<!--
-**owen-georgeliving/owen-georgeliving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interior Design, 3D Visualization & Technical Resources
 
-Here are some ideas to get you started:
+I contribute to interior design development and technical resource sharing at **George Living**, with a focus on turning design concepts into practical, coordinated interior product information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My areas of interest include:
+
+- **3D Interior Visualization** — residential, hospitality and commercial design references.
+- **Interior Design Development** — translating design intent into coordinated product requirements.
+- **Custom Joinery** — cabinetry, wardrobes, kitchens and architectural woodwork.
+- **Technical Documentation** — drawings, material references, specifications and project checklists.
+- **Design-to-Delivery Coordination** — connecting design information with engineering, manufacturing and product supply.
+
+## Design Resources
+
+Explore selected interior design references, drawings, materials and technical resources in the [George Living Design Library](https://livinggeorge.com/resources/design-library/).
+
+## About George Living
+
+George Living supports international B2B interior projects through design development, product engineering, custom joinery and coordinated interior product supply.
+
+Learn more: [George Living](https://livinggeorge.com/)
+
+## What You'll Find Here
+
+This GitHub profile shares selected reference materials, documentation templates, checklists and practical resources for interior design and project teams.
+
+Resources are provided for general reference. Project-specific drawings, dimensions, specifications and approvals must be independently verified before implementation.
